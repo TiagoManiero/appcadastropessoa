@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SqLite</string>
+    <string name="searchTitle">Procurar</string>
+    <string name="addPerson">Adicionar</string>
+    <string name="editPerson">Editar</string>
+    <string name="name">Nome</string>
+    <string name="gender">Gênero</string>
+    <string name="birth">Nascimento</string>
+    <string name="age">Idade</string>
+    <string name="male">M</string>
+    <string name="female">F</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Deletar</string>
+    <string name="errorData">Dados não correspondem</string>
+</resources>
